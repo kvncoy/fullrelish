@@ -1,7 +1,7 @@
 'use client';
-import produce from '../data/produce.json';
-import FullRelishSeasonal from '../components/FullRelishSeasonal';
+
+import FullRelishSeasonalNew from '../components/FullRelishSeasonalNew';
 
 export default function Page() {
-  return <FullRelishSeasonal produce={produce} />;
+  return <FullRelishSeasonalNew />;
 }
