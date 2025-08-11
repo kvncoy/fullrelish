@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { useState, useMemo } from 'react';
-import produceData from '../data/produce_full.json';
+import produceData from '../data/produce_by_state.json';
 
 // List of all 50 U.S. state abbreviations
 const allStates = [
@@ -14,19 +14,18 @@ export default function FullRelishApp() {
   const [filter, setFilter] = useState('All');
   const [hoveredItem, setHoveredItem] = useState(null);
   const month = new Date().getMonth() + 1;
-
-  // Filter produce that is in season for the selected region and month
-  const inSeason = useMemo(() => {
-    return produceData.filter((item) => {
-      const seasons = item.seasonsByRegion[region] || item.seasonsByRegion['US'] || [];
-      return seasons.includes(month);
-    });
-  }, [region, month]);
+  // Build a combined list of fruits and vegetables for the current region
+  const produceList = useMemo(() => {
+    const stateData = produceData[region] || {};
+    const fruits = (stateData.fruits || []).map((f) => ({ ...f, category: 'Fruit' }));
+    const vegetables = (stateData.vegetables || []).map((v) => ({ ...v, category: 'Vegetable' }));
+    return [...fruits, ...vegetables];
+  }, [region]);
 
   // Apply category filter (All/Fruit/Vegetable)
   const filtered = useMemo(() => {
-    return inSeason.filter((item) => filter === 'All' || item.category === filter);
-  }, [inSeason, filter]);
+    return produceList.filter((item) => filter === 'All' || item.category === filter);
+  }, [produceList, filter]);
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-indigo-50 via-blue-50 to-purple-50 text-gray-800">
@@ -71,18 +70,27 @@ export default function FullRelishApp() {
           {filtered.map((item) => (
             <div
               key={item.name}
-              className="relative p-6 bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow"
+              className="relative bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow overflow-hidden"
               onMouseEnter={() => {
                 const idx = Math.floor(Math.random() * item.dishes.length);
                 setHoveredItem({ name: item.name, dish: item.dishes[idx] });
               }}
               onMouseLeave={() => setHoveredItem(null)}
             >
-              <div className="text-5xl mb-4">{item.emoji}</div>
-              <div className="font-bold text-lg mb-1">{item.name}</div>
-              <div className="text-sm text-gray-500 capitalize">{item.category}</div>
+              {/* Produce image */}
+              <Image
+                src={item.image}
+                alt={item.name}
+                width={400}
+                height={300}
+                className="w-full h-40 object-cover"
+              />
+              <div className="p-4">
+                <div className="font-bold text-lg mb-1">{item.name}</div>
+                <div className="text-sm text-gray-500 capitalize">{item.category}</div>
+              </div>
               {hoveredItem && hoveredItem.name === item.name && (
-                <div className="absolute inset-0 bg-white bg-opacity-95 backdrop-blur-sm flex items-center justify-center rounded-xl p-4 text-center text-sm font-medium shadow-inner">
+                <div className="absolute inset-0 bg-white bg-opacity-95 backdrop-blur-sm flex items-center justify-center rounded-xl p-6 text-center text-base font-medium shadow-inner">
                   {hoveredItem.dish}
                 </div>
               )}
