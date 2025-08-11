@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Tomato",
+    "category": "vegetable",
+    "emoji": "🍅",
+    "seasonsByRegion": {
+      "AZ": [4, 5, 6, 7, 8],
+      "US": [5, 6, 7, 8, 9]
+    },
+    "dishes": ["Caprese salad", "Fresh salsa"]
+  },
+  {
+    "name": "Zucchini",
+    "category": "vegetable",
+    "emoji": "🥒",
+    "seasonsByRegion": {
+      "AZ": [5, 6, 7, 8],
+      "US": [6, 7, 8, 9]
+    },
+    "dishes": ["Grilled zucchini", "Zucchini bread"]
+  },
+  {
+    "name": "Peach",
+    "category": "fruit",
+    "emoji": "🍑",
+    "seasonsByRegion": {
+      "AZ": [5, 6, 7],
+      "US": [6, 7, 8]
+    },
+    "dishes": ["Peach cobbler", "Grilled peaches"]
+  },
+  {
+    "name": "Kale",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "seasonsByRegion": {
+      "AZ": [0, 1, 2, 11],
+      "US": [8, 9, 10, 11, 0, 1, 2]
+    },
+    "dishes": ["Kale salad", "Sautéed kale"]
+  },
+  {
+    "name": "Strawberry",
+    "category": "fruit",
+    "emoji": "🍓",
+    "seasonsByRegion": {
+      "AZ": [3, 4],
+      "US": [4, 5, 6]
+    },
+    "dishes": ["Strawberry shortcake", "Berry smoothie"]
+  }
+]
