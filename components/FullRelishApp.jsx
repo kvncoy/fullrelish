@@ -2,7 +2,8 @@
 
 import Image from 'next/image';
 import { useState, useMemo } from 'react';
-import produceData from '../data/produce_by_state.json';
+// Use the detailed dataset that includes full recipe information
+import produceData from '../data/produce_by_state_detailed.json';
 
 // List of all 50 U.S. state abbreviations
 const allStates = [
@@ -13,6 +14,9 @@ export default function FullRelishApp() {
   const [region, setRegion] = useState('AZ');
   const [filter, setFilter] = useState('All');
   const [hoveredItem, setHoveredItem] = useState(null);
+  const [selectedDish, setSelectedDish] = useState(null);
+  const [searchTerm, setSearchTerm] = useState('');
+
   const month = new Date().getMonth() + 1;
   // Build a combined list of fruits and vegetables for the current region.
   // Only include items that are in season for the current month (if seasons are defined)
@@ -30,13 +34,17 @@ export default function FullRelishApp() {
     return [...fruits, ...vegetables];
   }, [region, month]);
 
-  // Apply category filter (All/Fruit/Vegetable)
+  // Apply search and category filters
   const filtered = useMemo(() => {
-    return produceList.filter((item) => filter === 'All' || item.category === filter);
-  }, [produceList, filter]);
+  return produceList.filter((item) => {
+    const matchesCategory = filter === 'All' || item.category === filter;
+    const matchesSearch = item.name.toLowerCase().includes(searchTerm.toLowerCase());
+    return matchesCategory && matchesSearch;
+  });
+  }, [produceList, filter, searchTerm]);
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-indigo-50 via-blue-50 to-purple-50 text-gray-800">
+    <main className="min-h-screen bg-gradient-to-br from-green-50 via-yellow-50 to-pink-50 text-gray-800">
       {/* Hero section with logo and tagline */}
       <header className="py-10 text-center flex flex-col items-center">
         <Image src="/logo.png" alt="Full Relish logo" width={200} height={64} className="mb-4" />
@@ -46,6 +54,14 @@ export default function FullRelishApp() {
         </p>
         {/* Controls for region and category */}
         <div className="flex flex-wrap gap-4 justify-center">
+          {/* Search bar for produce */}
+          <input
+            type="text"
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            placeholder="Search produce..."
+            className="px-3 py-2 border rounded-md shadow-sm bg-white"
+          />
           <select
             value={region}
             onChange={(e) => setRegion(e.target.value)}
@@ -78,12 +94,24 @@ export default function FullRelishApp() {
           {filtered.map((item) => (
             <div
               key={item.name}
-              className="relative bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow overflow-hidden"
+              className="relative bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow overflow-hidden cursor-pointer"
               onMouseEnter={() => {
+                // pick a random dish for hover overlay
                 const idx = Math.floor(Math.random() * item.dishes.length);
                 setHoveredItem({ name: item.name, dish: item.dishes[idx] });
               }}
               onMouseLeave={() => setHoveredItem(null)}
+              onClick={() => {
+                // when clicking a card, open detailed modal for the first dish by default
+                const idx = 0;
+                const dish = item.dishes[idx];
+                setSelectedDish({
+                  produce: item.name,
+                  title: dish.title || (typeof dish === 'string' ? dish : ''),
+                  ingredients: dish.ingredients || [],
+                  instructions: dish.instructions || ''
+                });
+              }}
             >
               {/* Produce image */}
               <Image
@@ -99,7 +127,8 @@ export default function FullRelishApp() {
               </div>
               {hoveredItem && hoveredItem.name === item.name && (
                 <div className="absolute inset-0 bg-white bg-opacity-95 backdrop-blur-sm flex items-center justify-center rounded-xl p-6 text-center text-base font-medium shadow-inner">
-                  {hoveredItem.dish}
+                  {/* Show just the dish title on hover */}
+                  {typeof hoveredItem.dish === 'string' ? hoveredItem.dish : hoveredItem.dish.title}
                 </div>
               )}
             </div>
@@ -111,6 +140,43 @@ export default function FullRelishApp() {
           )}
         </div>
       </div>
+
+      {/* Modal for selected dish with full recipe details */}
+      {selectedDish && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 px-4">
+          <div className="bg-white rounded-xl shadow-xl max-w-lg w-full overflow-y-auto max-h-[90vh] p-6 relative">
+            <button
+              onClick={() => setSelectedDish(null)}
+              className="absolute top-3 right-3 text-gray-500 hover:text-gray-700"
+              aria-label="Close recipe"
+            >
+              &times;
+            </button>
+            <h2 className="text-2xl font-bold mb-2">{selectedDish.title}</h2>
+            <p className="text-sm text-gray-600 italic mb-4">Featuring: {selectedDish.produce}</p>
+            {selectedDish.ingredients && selectedDish.ingredients.length > 0 && (
+              <div className="mb-4">
+                <h3 className="text-xl font-semibold mb-2">Ingredients</h3>
+                <ul className="list-disc list-inside space-y-1">
+                  {selectedDish.ingredients.map((ing, i) => (
+                    <li key={i} className="text-sm text-gray-700">
+                      {ing}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {selectedDish.instructions && (
+              <div>
+                <h3 className="text-xl font-semibold mb-2">Instructions</h3>
+                <p className="text-sm text-gray-700 whitespace-pre-line">
+                  {selectedDish.instructions}
+                </p>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
     </main>
   );
 }
