@@ -1,0 +1,4302 @@
+{
+  "AL": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "AK": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "AZ": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "AR": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "CA": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "CO": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "CT": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "DE": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "FL": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "GA": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "HI": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "ID": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "IL": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "IN": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "IA": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "KS": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "KY": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "LA": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "ME": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "MD": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "MA": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "MI": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "MN": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "MS": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "MO": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "MT": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "NE": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "NV": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "NH": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "NJ": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "NM": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "NY": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "NC": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "ND": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "OH": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "OK": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "OR": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "PA": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "RI": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "SC": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "SD": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "TN": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "TX": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "UT": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "VT": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "VA": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "WA": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "WV": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "WI": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  },
+  "WY": {
+    "fruits": [
+      {
+        "name": "Apple",
+        "image": "/images/apple.png",
+        "dishes": [
+          "Apple Crisp",
+          "Cinnamon Baked Apples"
+        ]
+      },
+      {
+        "name": "Peach",
+        "image": "/images/peach.png",
+        "dishes": [
+          "Peach Cobbler",
+          "Grilled Peach Salad"
+        ]
+      },
+      {
+        "name": "Grapes",
+        "image": "/images/grapes.png",
+        "dishes": [
+          "Grape Focaccia",
+          "Roasted Grape Bruschetta"
+        ]
+      },
+      {
+        "name": "Watermelon",
+        "image": "/images/watermelon.png",
+        "dishes": [
+          "Watermelon Salad with Feta",
+          "Watermelon Gazpacho"
+        ]
+      },
+      {
+        "name": "Blueberries",
+        "image": "/images/blueberries.png",
+        "dishes": [
+          "Blueberry Muffins",
+          "Lemon Blueberry Pancakes"
+        ]
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "image": "/images/tomato.png",
+        "dishes": [
+          "Heirloom Tomato Tart",
+          "Charred Tomato Salsa"
+        ]
+      },
+      {
+        "name": "Corn",
+        "image": "/images/corn.png",
+        "dishes": [
+          "Grilled Corn with Herb Butter",
+          "Corn and Zucchini Fritters"
+        ]
+      },
+      {
+        "name": "Cucumber",
+        "image": "/images/cucumber.png",
+        "dishes": [
+          "Cucumber Salad with Dill",
+          "Cucumber Mint Agua Fresca"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "image": "/images/bell_pepper.png",
+        "dishes": [
+          "Stuffed Bell Peppers",
+          "Roasted Bell Pepper Soup"
+        ]
+      },
+      {
+        "name": "Zucchini",
+        "image": "/images/zucchini.png",
+        "dishes": [
+          "Zucchini Noodles with Pesto",
+          "Baked Zucchini Fries"
+        ]
+      }
+    ]
+  }
+}
