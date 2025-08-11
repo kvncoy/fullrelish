@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Apple",
+    "category": "fruit",
+    "emoji": "🍎",
+    "seasonsByRegion": {
+      "AZ": [9, 10, 11],
+      "US": [9, 10, 11]
+    },
+    "dishes": ["Apple pie", "Apple salad", "Baked apples"]
+  },
+  {
+    "name": "Banana",
+    "category": "fruit",
+    "emoji": "🍌",
+    "seasonsByRegion": {
+      "AZ": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "US": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "dishes": ["Banana bread", "Smoothie", "Banana pancakes"]
+  },
+  {
+    "name": "Cherry",
+    "category": "fruit",
+    "emoji": "🍒",
+    "seasonsByRegion": {
+      "AZ": [5, 6, 7],
+      "US": [5, 6, 7]
+    },
+    "dishes": ["Cherry pie", "Cherry jam", "Cherry tart"]
+  },
+  {
+    "name": "Grape",
+    "category": "fruit",
+    "emoji": "🍇",
+    "seasonsByRegion": {
+      "AZ": [8, 9, 10],
+      "US": [8, 9, 10]
+    },
+    "dishes": ["Grape salad", "Grape jelly", "Roasted grapes"]
+  },
+  {
+    "name": "Orange",
+    "category": "fruit",
+    "emoji": "🍊",
+    "seasonsByRegion": {
+      "AZ": [12, 1, 2, 3],
+      "US": [12, 1, 2, 3]
+    },
+    "dishes": ["Orange juice", "Orange chicken", "Orange marmalade"]
+  },
+  {
+    "name": "Carrot",
+    "category": "vegetable",
+    "emoji": "🥕",
+    "seasonsByRegion": {
+      "AZ": [3, 4, 5, 6, 7, 8],
+      "US": [3, 4, 5, 6, 7, 8]
+    },
+    "dishes": ["Carrot soup", "Carrot cake", "Roasted carrots"]
+  },
+  {
+    "name": "Spinach",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "seasonsByRegion": {
+      "AZ": [4, 5, 6, 7],
+      "US": [4, 5, 6, 7]
+    },
+    "dishes": ["Spinach salad", "Creamed spinach", "Spinach quiche"]
+  },
+  {
+    "name": "Broccoli",
+    "category": "vegetable",
+    "emoji": "🥦",
+    "seasonsByRegion": {
+      "AZ": [9, 10, 11],
+      "US": [9, 10, 11]
+    },
+    "dishes": ["Broccoli stir-fry", "Broccoli soup", "Roasted broccoli"]
+  },
+  {
+    "name": "Bell Pepper",
+    "category": "vegetable",
+    "emoji": "🥎",
+    "seasonsByRegion": {
+      "AZ": [7, 8, 9],
+      "US": [7, 8, 9]
+    },
+    "dishes": ["Stuffed peppers", "Fajitas", "Pepper stir-fry"]
+  },
+  {
+    "name": "Corn",
+    "category": "vegetable",
+    "emoji": "🌽",
+    "seasonsByRegion": {
+      "AZ": [6, 7, 8, 9],
+      "US": [6, 7, 8, 9]
+    },
+    "dishes": ["Grilled corn", "Corn salad", "Corn chowder"]
+  }
+]
