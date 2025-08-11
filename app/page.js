@@ -1,7 +1,7 @@
 'use client';
 
-import FullRelishSeasonalNew from '../components/FullRelishSeasonalNew';
+import FullRelishApp from '../components/FullRelishApp';
 
 export default function Page() {
-  return <FullRelishSeasonalNew />;
+  return <FullRelishApp />;
 }
