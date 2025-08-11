@@ -14,13 +14,21 @@ export default function FullRelishApp() {
   const [filter, setFilter] = useState('All');
   const [hoveredItem, setHoveredItem] = useState(null);
   const month = new Date().getMonth() + 1;
-  // Build a combined list of fruits and vegetables for the current region
+  // Build a combined list of fruits and vegetables for the current region.
+  // Only include items that are in season for the current month (if seasons are defined)
+  // and cap each group at five items so the interface stays streamlined.
   const produceList = useMemo(() => {
     const stateData = produceData[region] || {};
-    const fruits = (stateData.fruits || []).map((f) => ({ ...f, category: 'Fruit' }));
-    const vegetables = (stateData.vegetables || []).map((v) => ({ ...v, category: 'Vegetable' }));
+    const fruits = (stateData.fruits || [])
+      .filter((f) => !f.seasons || f.seasons.includes(month))
+      .slice(0, 5)
+      .map((f) => ({ ...f, category: 'Fruit' }));
+    const vegetables = (stateData.vegetables || [])
+      .filter((v) => !v.seasons || v.seasons.includes(month))
+      .slice(0, 5)
+      .map((v) => ({ ...v, category: 'Vegetable' }));
     return [...fruits, ...vegetables];
-  }, [region]);
+  }, [region, month]);
 
   // Apply category filter (All/Fruit/Vegetable)
   const filtered = useMemo(() => {
